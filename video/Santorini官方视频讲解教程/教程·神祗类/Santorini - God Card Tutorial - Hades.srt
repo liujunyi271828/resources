@@ -1,0 +1,44 @@
+1
+00:00:00,680 --> 00:00:07,470
+Hades god of the underworld opponent
+
+2
+00:00:04,650 --> 00:00:09,510
+workers cannot move down once an
+
+3
+00:00:07,469 --> 00:00:11,757
+opponent's worker moves up a level it
+
+4
+00:00:09,509 --> 00:00:13,797
+can no longer jump down and must stay on
+
+5
+00:00:11,759 --> 00:00:16,020
+the same level when it moves or move up
+
+6
+00:00:13,798 --> 00:00:17,818
+another level if ever they can't move
+
+7
+00:00:16,019 --> 00:00:20,669
+because I can't jump down
+
+8
+00:00:17,820 --> 00:00:22,709
+Hades wins the game so temp down at
+
+9
+00:00:20,670 --> 00:00:24,569
+places to move only to leave them
+
+10
+00:00:22,710 --> 00:00:27,320
+stranded with nothing but the underworld
+
+11
+00:00:24,570 --> 00:00:27,320
+at their feet
+

@@ -1,0 +1,48 @@
+1
+00:00:00,030 --> 00:00:05,579
+Athena the goddess of wisdom after
+
+2
+00:00:03,270 --> 00:00:07,739
+stepping up a level no other builders
+
+3
+00:00:05,580 --> 00:00:10,259
+may step up a level until your next turn
+
+4
+00:00:07,740 --> 00:00:12,629
+this means that if one of your builders
+
+5
+00:00:10,259 --> 00:00:14,967
+steps up a level on your opponent's next
+
+6
+00:00:12,630 --> 00:00:16,649
+turn none of their builders may step up
+
+7
+00:00:14,968 --> 00:00:19,437
+a level although they may step
+
+8
+00:00:16,649 --> 00:00:22,229
+horizontally on the same level or a step
+
+9
+00:00:19,439 --> 00:00:23,639
+down any number of others this prevents
+
+10
+00:00:22,230 --> 00:00:25,649
+an opponent from winning if they were
+
+11
+00:00:23,640 --> 00:00:28,220
+able to step up to the third level on
+
+12
+00:00:25,649 --> 00:00:28,218
+their turn
+

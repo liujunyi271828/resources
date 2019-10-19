@@ -1,0 +1,64 @@
+1
+00:00:00,650 --> 00:00:07,619
+Prometheus Titan benefactor of mankind
+
+2
+00:00:04,379 --> 00:00:09,928
+on your turn if your worker does not
+
+3
+00:00:07,620 --> 00:00:13,200
+move up it may build both before and
+
+4
+00:00:09,929 --> 00:00:15,690
+after moving the worker that builds has
+
+5
+00:00:13,199 --> 00:00:17,309
+to be the same worker that moves so both
+
+6
+00:00:15,689 --> 00:00:19,229
+blocks would have to come from that
+
+7
+00:00:17,309 --> 00:00:21,509
+worker when using prometheus
+
+8
+00:00:19,230 --> 00:00:22,680
+if you need to block your opponent in
+
+9
+00:00:21,510 --> 00:00:25,199
+two places at once
+
+10
+00:00:22,679 --> 00:00:27,839
+look for an opening to build once move
+
+11
+00:00:25,199 --> 00:00:30,449
+away then build again covering a large
+
+12
+00:00:27,839 --> 00:00:32,339
+distance of the island while you can't
+
+13
+00:00:30,449 --> 00:00:34,920
+move up if you wish to build before you
+
+14
+00:00:32,340 --> 00:00:36,899
+move you can still jump down so don't be
+
+15
+00:00:34,920 --> 00:00:40,519
+afraid to give up on a tower you won't
+
+16
+00:00:36,899 --> 00:00:40,520
+get to go work on another
+

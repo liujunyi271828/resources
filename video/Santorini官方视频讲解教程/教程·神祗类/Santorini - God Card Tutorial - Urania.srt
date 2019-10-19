@@ -1,0 +1,84 @@
+1
+00:00:00,390 --> 00:00:05,100
+[Music]
+
+2
+00:00:00,650 --> 00:00:07,648
+Urania muse of astronomy on your turn
+
+3
+00:00:05,099 --> 00:00:10,137
+when your worker moves her builds treat
+
+4
+00:00:07,649 --> 00:00:12,509
+opposite edges and corners as if they
+
+5
+00:00:10,138 --> 00:00:15,628
+are adjacent so that every space has
+
+6
+00:00:12,509 --> 00:00:18,480
+eight neighbors traverse the stars to
+
+7
+00:00:15,630 --> 00:00:20,309
+arrive at your desired destination when
+
+8
+00:00:18,480 --> 00:00:22,649
+one of your workers moves off the side
+
+9
+00:00:20,309 --> 00:00:24,929
+of the board they appear on the opposite
+
+10
+00:00:22,649 --> 00:00:27,299
+edge of or corner they must still follow
+
+11
+00:00:24,929 --> 00:00:29,278
+normal move restrictions however so you
+
+12
+00:00:27,300 --> 00:00:31,979
+couldn't work from a ground-level space
+
+13
+00:00:29,278 --> 00:00:34,319
+to a level 2 tower but could still win
+
+14
+00:00:31,980 --> 00:00:36,930
+if warping from a level 2 tower to a
+
+15
+00:00:34,320 --> 00:00:39,058
+third-level tower because building works
+
+16
+00:00:36,929 --> 00:00:40,948
+in the same way you can surprise your
+
+17
+00:00:39,058 --> 00:00:42,627
+opponent by building where it looked
+
+18
+00:00:40,950 --> 00:00:45,570
+like you could never be able to reach
+
+19
+00:00:42,628 --> 00:00:48,129
+use the night sky as your roadmap so
+
+20
+00:00:45,570 --> 00:00:51,188
+you'll never get lost
+
+21
+00:00:48,130 --> 00:00:51,189
+[Music]
+
